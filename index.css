@@ -204,6 +204,8 @@
 }
  
 .home-thq-inverted-band-elm.home-thq-inverted-band-elm {
+  padding-top: 36px;
+  padding-bottm: 36px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -211,7 +213,7 @@
 }
  
 .home-thq-container-elm.home-thq-container-elm {
-  height: var(--spacing-4xl);
+  display: flex;
   align-items: center;
 }
  
